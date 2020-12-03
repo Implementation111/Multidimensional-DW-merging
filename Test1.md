@@ -20,6 +20,10 @@
 ![image](https://user-images.githubusercontent.com/43824695/100223773-39307980-2f1c-11eb-9873-e00781253b5b.png)
 
 
+![image](https://user-images.githubusercontent.com/75027258/101087816-186ac280-35b3-11eb-8fd5-e0c3c57c8290.png)
+![image](https://user-images.githubusercontent.com/75027258/101088704-5b796580-35b4-11eb-984d-be55d39ba17a.png)
+![image](https://user-images.githubusercontent.com/75027258/101088743-67fdbe00-35b4-11eb-860f-00b7a2df166d.png)
+
 #### Customer of S2:
 ![image](https://user-images.githubusercontent.com/43824695/100223823-4b121c80-2f1c-11eb-95a4-282385a6a3a4.png)
 #### Supplier of S2:
