@@ -4,6 +4,9 @@
 ![Image16](https://user-images.githubusercontent.com/43824695/100232496-b2ce6480-2f28-11eb-811d-4c3c656e809e.png)
 
 ### 2. Instance:
+![image](https://user-images.githubusercontent.com/75027258/101087682-d477bd80-35b2-11eb-9b3a-7d2875f6b5c1.png)
+![image](https://user-images.githubusercontent.com/75027258/101087726-e8bbba80-35b2-11eb-80f6-4eb64741e4e5.png)
+
 #### Customer of S1:
 ![image](https://user-images.githubusercontent.com/43824695/100223544-ed7dd000-2f1b-11eb-818f-722c35b69c7d.png)
 #### Supplier of S1:
