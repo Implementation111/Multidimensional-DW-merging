@@ -5,7 +5,7 @@
 
 ### 2. Instance:
 ![image](https://user-images.githubusercontent.com/75027258/101087682-d477bd80-35b2-11eb-9b3a-7d2875f6b5c1.png)
-![image](https://user-images.githubusercontent.com/75027258/101087726-e8bbba80-35b2-11eb-80f6-4eb64741e4e5.png)
+![image](https://user-images.githubusercontent.com/75027258/101131919-60670500-3606-11eb-98b6-84efc7adb56e.png)
 
 #### Customer of S1:
 ![image](https://user-images.githubusercontent.com/43824695/100223544-ed7dd000-2f1b-11eb-818f-722c35b69c7d.png)
@@ -20,9 +20,10 @@
 ![image](https://user-images.githubusercontent.com/43824695/100223773-39307980-2f1c-11eb-9873-e00781253b5b.png)
 
 
-![image](https://user-images.githubusercontent.com/75027258/101087816-186ac280-35b3-11eb-8fd5-e0c3c57c8290.png)
+![image](https://user-images.githubusercontent.com/75027258/101131957-71b01180-3606-11eb-9d9f-58b341783a7e.png)
 ![image](https://user-images.githubusercontent.com/75027258/101088704-5b796580-35b4-11eb-984d-be55d39ba17a.png)
-![image](https://user-images.githubusercontent.com/75027258/101088743-67fdbe00-35b4-11eb-860f-00b7a2df166d.png)
+![image](https://user-images.githubusercontent.com/75027258/101132160-c489c900-3606-11eb-85fd-729b031a4f77.png)
+
 
 #### Customer of S2:
 ![image](https://user-images.githubusercontent.com/43824695/100223823-4b121c80-2f1c-11eb-95a4-282385a6a3a4.png)
@@ -65,12 +66,12 @@
 ![image](https://user-images.githubusercontent.com/43824695/100225135-0a1b0780-2f1e-11eb-90ea-ba8942da18ad.png)
 
 ![image](https://user-images.githubusercontent.com/75027258/101091643-bad97480-35b8-11eb-9e4a-cb128f60ace3.png)
-![image](https://user-images.githubusercontent.com/75027258/101091694-ce84db00-35b8-11eb-831b-cc92a17f7e9f.png)
-![image](https://user-images.githubusercontent.com/75027258/101093228-c29a1880-35ba-11eb-939d-f33b739f97b7.png)
-![image](https://user-images.githubusercontent.com/75027258/101093300-d6457f00-35ba-11eb-8d30-be926df13d3d.png)
+![image](https://user-images.githubusercontent.com/75027258/101132193-d8352f80-3606-11eb-8c63-7a976c865cd4.png)
+
 
 ![image](https://user-images.githubusercontent.com/75027258/101094717-1dcd0a80-35bd-11eb-96f3-fb2457ac77d4.png)
-![image](https://user-images.githubusercontent.com/75027258/101094749-28879f80-35bd-11eb-89c5-388383739a71.png)
+![image](https://user-images.githubusercontent.com/75027258/101132289-0a469180-3607-11eb-8435-2a345b70e631.png)
+
 
 ![image](https://user-images.githubusercontent.com/75027258/101097406-64bcff00-35c1-11eb-900c-dfbf24782aac.png)
 ![image](https://user-images.githubusercontent.com/75027258/101097453-77cfcf00-35c1-11eb-963f-617f0d2e1351.png)
