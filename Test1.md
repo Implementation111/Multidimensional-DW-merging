@@ -5,7 +5,7 @@
 
 ### 2. Instance:
 ![image](https://user-images.githubusercontent.com/75027258/101087682-d477bd80-35b2-11eb-9b3a-7d2875f6b5c1.png)
-![image](https://user-images.githubusercontent.com/75027258/101131919-60670500-3606-11eb-98b6-84efc7adb56e.png)
+![image](https://user-images.githubusercontent.com/75027258/101133374-e97f3b80-3608-11eb-99ee-adf4baa2522d.png)
 
 #### Customer of S1:
 ![image](https://user-images.githubusercontent.com/43824695/100223544-ed7dd000-2f1b-11eb-818f-722c35b69c7d.png)
@@ -20,9 +20,10 @@
 ![image](https://user-images.githubusercontent.com/43824695/100223773-39307980-2f1c-11eb-9873-e00781253b5b.png)
 
 
-![image](https://user-images.githubusercontent.com/75027258/101131957-71b01180-3606-11eb-9d9f-58b341783a7e.png)
+![image](https://user-images.githubusercontent.com/75027258/101133415-fb60de80-3608-11eb-8cec-238be619d117.png)
 ![image](https://user-images.githubusercontent.com/75027258/101088704-5b796580-35b4-11eb-984d-be55d39ba17a.png)
-![image](https://user-images.githubusercontent.com/75027258/101132160-c489c900-3606-11eb-85fd-729b031a4f77.png)
+![image](https://user-images.githubusercontent.com/75027258/101133457-0fa4db80-3609-11eb-99be-778b0692b3e8.png)
+
 
 
 #### Customer of S2:
@@ -66,11 +67,11 @@
 ![image](https://user-images.githubusercontent.com/43824695/100225135-0a1b0780-2f1e-11eb-90ea-ba8942da18ad.png)
 
 ![image](https://user-images.githubusercontent.com/75027258/101091643-bad97480-35b8-11eb-9e4a-cb128f60ace3.png)
-![image](https://user-images.githubusercontent.com/75027258/101132193-d8352f80-3606-11eb-8c63-7a976c865cd4.png)
+![image](https://user-images.githubusercontent.com/75027258/101133506-24816f00-3609-11eb-9ae9-9b244e8d0e53.png)
 
 
 ![image](https://user-images.githubusercontent.com/75027258/101094717-1dcd0a80-35bd-11eb-96f3-fb2457ac77d4.png)
-![image](https://user-images.githubusercontent.com/75027258/101132289-0a469180-3607-11eb-8435-2a345b70e631.png)
+![image](https://user-images.githubusercontent.com/75027258/101133544-3531e500-3609-11eb-9431-b4057bcf210e.png)
 
 
 ![image](https://user-images.githubusercontent.com/75027258/101097406-64bcff00-35c1-11eb-900c-dfbf24782aac.png)
