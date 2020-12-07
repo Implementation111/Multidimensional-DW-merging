@@ -67,8 +67,7 @@
 
 #### Number of tuples:
 ![image](https://user-images.githubusercontent.com/75027258/101346522-f742f400-3888-11eb-8446-88afccb5f942.png)
-
-![image](https://user-images.githubusercontent.com/75027258/101100044-1e1dd380-35c6-11eb-9850-ce8e3e0f3d15.png)
+![image](https://user-images.githubusercontent.com/75027258/101346799-64ef2000-3889-11eb-8109-46a83c8bc026.png)
 #### Number of completed attributes:
 ![image](https://user-images.githubusercontent.com/75027258/101100094-31c93a00-35c6-11eb-912a-74ce4f76d008.png)
 ![image](https://user-images.githubusercontent.com/75027258/101100115-3f7ebf80-35c6-11eb-9e1d-748e4ed65ab8.png)
