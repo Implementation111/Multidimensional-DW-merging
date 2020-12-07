@@ -67,7 +67,7 @@
 ![image](https://user-images.githubusercontent.com/75027258/101094717-1dcd0a80-35bd-11eb-96f3-fb2457ac77d4.png)
 ![image](https://user-images.githubusercontent.com/75027258/101133544-3531e500-3609-11eb-9431-b4057bcf210e.png)
 
-#### Why this hierarchy is removed
+#### Why the hierarchy is removed
 ![image](https://user-images.githubusercontent.com/75027258/101097406-64bcff00-35c1-11eb-900c-dfbf24782aac.png)
 ![image](https://user-images.githubusercontent.com/75027258/101097453-77cfcf00-35c1-11eb-963f-617f0d2e1351.png)
 
