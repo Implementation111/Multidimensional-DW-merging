@@ -16,7 +16,6 @@
 #### Orderdate of S1:
 ![image](https://user-images.githubusercontent.com/43824695/100223670-18682400-2f1c-11eb-9d99-377d295789c3.png)
 #### Lineorder of S1:
-![image](https://user-images.githubusercontent.com/43824695/100224050-975d5c80-2f1c-11eb-9cae-372cb738065f.png)
 ![image](https://user-images.githubusercontent.com/43824695/100223773-39307980-2f1c-11eb-9873-e00781253b5b.png)
 
 
@@ -35,7 +34,6 @@
 #### Orderdate of S2: 
 ![image](https://user-images.githubusercontent.com/43824695/100223934-6e3ccc00-2f1c-11eb-8b91-eb987cd9d96d.png)
 #### Lineorder of S2:
-![image](https://user-images.githubusercontent.com/43824695/100224085-a2b08800-2f1c-11eb-946b-981aa6901e35.png)
 ![image](https://user-images.githubusercontent.com/43824695/100223979-7ac12480-2f1c-11eb-8af4-49f5a4d7a034.png)
 
 
@@ -47,23 +45,18 @@
 ![image](https://user-images.githubusercontent.com/43824695/100224477-2bc7bf00-2f1d-11eb-89d5-22aec387b23d.png)
 #### Instance:
 #### Customer:
-![image](https://user-images.githubusercontent.com/43824695/100224798-95e06400-2f1d-11eb-8ad8-565be20cb3b8.png)
 ![image](https://user-images.githubusercontent.com/43824695/100224829-a1cc2600-2f1d-11eb-87a1-5b0c324befc7.png)
 
 #### Supplier:
-![image](https://user-images.githubusercontent.com/43824695/100224869-b01a4200-2f1d-11eb-8215-6050a53a5c1d.png)
 ![image](https://user-images.githubusercontent.com/43824695/100225199-2028c800-2f1e-11eb-84ce-266cbecc0324.png)
 
 #### Part:
-![image](https://user-images.githubusercontent.com/43824695/100224897-bc9e9a80-2f1d-11eb-8142-9d4a916a587e.png)
 ![image](https://user-images.githubusercontent.com/43824695/100225303-4b131c00-2f1e-11eb-9243-c00cce5c7826.png)
 
 #### Orderdate:
-![image](https://user-images.githubusercontent.com/43824695/100224936-caecb680-2f1d-11eb-80a2-4d50aee84905.png)
 ![image](https://user-images.githubusercontent.com/43824695/100233428-08efd780-2f2a-11eb-9719-e893545c739c.png)
 
 #### Lineorder:
-![image](https://user-images.githubusercontent.com/43824695/100224993-e061e080-2f1d-11eb-95de-3b9c66c79d5b.png)
 ![image](https://user-images.githubusercontent.com/43824695/100225135-0a1b0780-2f1e-11eb-90ea-ba8942da18ad.png)
 
 ![image](https://user-images.githubusercontent.com/75027258/101091643-bad97480-35b8-11eb-9e4a-cb128f60ace3.png)
