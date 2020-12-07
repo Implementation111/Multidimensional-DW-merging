@@ -4,6 +4,7 @@
 ![Image16](https://user-images.githubusercontent.com/43824695/100232496-b2ce6480-2f28-11eb-811d-4c3c656e809e.png)
 
 ### 2. Instance:
+#### Number of tuples of S1:
 ![image](https://user-images.githubusercontent.com/75027258/101087682-d477bd80-35b2-11eb-9b3a-7d2875f6b5c1.png)
 ![image](https://user-images.githubusercontent.com/75027258/101133374-e97f3b80-3608-11eb-99ee-adf4baa2522d.png)
 
@@ -18,12 +19,11 @@
 #### Lineorder of S1:
 ![image](https://user-images.githubusercontent.com/43824695/100223773-39307980-2f1c-11eb-9873-e00781253b5b.png)
 
-
+#### Number of tuples of S2:
 ![image](https://user-images.githubusercontent.com/75027258/101133415-fb60de80-3608-11eb-8cec-238be619d117.png)
 ![image](https://user-images.githubusercontent.com/75027258/101088704-5b796580-35b4-11eb-984d-be55d39ba17a.png)
+#### Number of common tuples betweent S1 and S2:
 ![image](https://user-images.githubusercontent.com/75027258/101133457-0fa4db80-3609-11eb-99be-778b0692b3e8.png)
-
-
 
 #### Customer of S2:
 ![image](https://user-images.githubusercontent.com/43824695/100223823-4b121c80-2f1c-11eb-95a4-282385a6a3a4.png)
@@ -59,14 +59,15 @@
 #### Lineorder:
 ![image](https://user-images.githubusercontent.com/43824695/100225135-0a1b0780-2f1e-11eb-90ea-ba8942da18ad.png)
 
+#### Number of tuples:
 ![image](https://user-images.githubusercontent.com/75027258/101091643-bad97480-35b8-11eb-9e4a-cb128f60ace3.png)
 ![image](https://user-images.githubusercontent.com/75027258/101133506-24816f00-3609-11eb-9ae9-9b244e8d0e53.png)
 
-
+#### Number of completed attributes:
 ![image](https://user-images.githubusercontent.com/75027258/101094717-1dcd0a80-35bd-11eb-96f3-fb2457ac77d4.png)
 ![image](https://user-images.githubusercontent.com/75027258/101133544-3531e500-3609-11eb-9431-b4057bcf210e.png)
 
-
+#### Why this hierarchy is removed
 ![image](https://user-images.githubusercontent.com/75027258/101097406-64bcff00-35c1-11eb-900c-dfbf24782aac.png)
 ![image](https://user-images.githubusercontent.com/75027258/101097453-77cfcf00-35c1-11eb-963f-617f0d2e1351.png)
 
