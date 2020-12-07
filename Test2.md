@@ -5,6 +5,9 @@
 ![Image15](https://user-images.githubusercontent.com/43824695/100207308-bf8e9080-2f07-11eb-9a4a-1614481be04b.png)
 
 ### 2. Instance:
+#### Number of tuples of S1:
+![image](https://user-images.githubusercontent.com/75027258/101098788-d5651b00-35c3-11eb-9e05-dc027740b961.png)
+![image](https://user-images.githubusercontent.com/75027258/101098838-e7df5480-35c3-11eb-85c0-0802c7b0a0e5.png)
 #### Customer of S1:
 ![image](https://user-images.githubusercontent.com/43824695/100215959-fe294880-2f11-11eb-9177-ca2b3bd5f0e7.png)
 #### Supplier of S1:
@@ -15,7 +18,12 @@
 ![image](https://user-images.githubusercontent.com/43824695/100216809-05048b00-2f13-11eb-832b-eee0d5188d9c.png)
 ![image](https://user-images.githubusercontent.com/43824695/100216068-2153f800-2f12-11eb-967a-7dc902a48332.png)
 
-
+#### Number of tuples of S1:
+![image](https://user-images.githubusercontent.com/75027258/101098868-f75e9d80-35c3-11eb-9c02-eeed1af95a22.png)
+![image](https://user-images.githubusercontent.com/75027258/101098899-07767d00-35c4-11eb-89aa-9a150c481cbe.png)
+#### Number of common tuples of S1 and S2:
+![image](https://user-images.githubusercontent.com/75027258/101099062-4f959f80-35c4-11eb-9bfa-6af59f5e796a.png)
+![image](https://user-images.githubusercontent.com/75027258/101099097-5fad7f00-35c4-11eb-8751-48b57016efda.png)
 #### Customer of S2:
 ![image](https://user-images.githubusercontent.com/43824695/100216187-48122e80-2f12-11eb-8231-f36cc09b0764.png)
 #### Supplier of S2:
@@ -58,12 +66,8 @@
 ![image](https://user-images.githubusercontent.com/43824695/100217700-0aaea080-2f14-11eb-96db-4a6f9c7daed3.png)
 
 
-![image](https://user-images.githubusercontent.com/75027258/101098788-d5651b00-35c3-11eb-9e05-dc027740b961.png)
-![image](https://user-images.githubusercontent.com/75027258/101098838-e7df5480-35c3-11eb-85c0-0802c7b0a0e5.png)
-![image](https://user-images.githubusercontent.com/75027258/101098868-f75e9d80-35c3-11eb-9c02-eeed1af95a22.png)
-![image](https://user-images.githubusercontent.com/75027258/101098899-07767d00-35c4-11eb-89aa-9a150c481cbe.png)
-![image](https://user-images.githubusercontent.com/75027258/101099062-4f959f80-35c4-11eb-9bfa-6af59f5e796a.png)
-![image](https://user-images.githubusercontent.com/75027258/101099097-5fad7f00-35c4-11eb-8751-48b57016efda.png)
+
+
 ![image](https://user-images.githubusercontent.com/75027258/101099999-0c3c3080-35c6-11eb-9e79-ef70cabac086.png)
 ![image](https://user-images.githubusercontent.com/75027258/101100044-1e1dd380-35c6-11eb-9850-ce8e3e0f3d15.png)
 ![image](https://user-images.githubusercontent.com/75027258/101100094-31c93a00-35c6-11eb-912a-74ce4f76d008.png)
